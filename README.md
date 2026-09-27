@@ -26,12 +26,12 @@ I'm a **BBIT student at the Institute of Business & Information Technology (IBIT
 
 I work primarily with the **MERN stack** and enjoy building complete applications — from frontend interfaces and REST APIs to databases, authentication, and deployment.
 
-I'm currently expanding my backend and development skills with **Python, Django REST Framework, FastAPI, and Three.js**.
+I'm currently expanding my development skills with **Python, Django REST Framework, FastAPI, and Three.js**.
 
 ### 🚀 What I'm Currently Doing
 
-* 🔭 Working on **[Food & Friends](https://github.com/rajkumar-pk/Food_and_Friends)**
-* 🌱 Learning **Python, Django REST Framework, FastAPI & Three.js**
+* 🔭 Currently working on **Food & Friends**
+* 🌱 Currently learning **Python, Django REST Framework, FastAPI & Three.js**
 * 👯 Looking to collaborate on **Full-stack MERN projects**
 * 🤝 Looking for help with **Three.js / WebGL / GLSL**
 * 💬 Ask me about **MERN Stack, React, Node.js, Express & MongoDB**
@@ -43,25 +43,25 @@ I'm currently expanding my backend and development skills with **Python, Django 
 
 ### Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,cpp" height="48" alt="JavaScript Python C++"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,python,cpp" height="48" alt="JavaScript, Python, C++"/>
 </p>
 
 ### Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="48" alt="React Next.js Tailwind CSS"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="48" alt="React, Next.js, Tailwind CSS"/>
 </p>
 
 ### Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" height="48" alt="Node.js Express Django"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" height="48" alt="Node.js, Express.js, Django"/>
 </p>
 
 ### Database
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/>
 </p>
 
@@ -75,29 +75,40 @@ My development work includes:
 * 🔹 Designing **MongoDB data models** with Mongoose, including schemas and CRUD operations
 * 🔹 Implementing **authentication** using JWT and password hashing
 * 🔹 Building **React.js / Next.js interfaces** connected to real backend APIs
-* 🔹 Working on **full-stack applications** from initial setup through deployment
 * 🔹 Developing responsive interfaces using **Tailwind CSS**
+* 🔹 Working on **full-stack projects** from initial setup through deployment
 * 🔹 Applying **object-oriented programming concepts** with C++
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Projects
 
-<div align="center">
+## 🍽️ Food & Friends
 
-<a href="https://github.com/rajkumar-pk/Food_and_Friends">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajkumar-pk&repo=Food_and_Friends&hide_border=true&theme=transparent" alt="Food & Friends"/>
-</a>
+Currently working on a **full-stack restaurant application** built around a modern web experience.
 
-</div>
+**Technology:** MongoDB • Express.js • React.js • Node.js • Tailwind CSS
 
-### 🍽️ Food & Friends
+> Repository link temporarily hidden while the project is being developed.
 
-A full-stack restaurant application built around a modern web experience.
+---
 
-**Stack:** MongoDB • Express.js • React.js • Node.js • Tailwind CSS
+## 🎙️ VoicePilot
 
-<a href="https://github.com/rajkumar-pk/Food_and_Friends">View Repository →</a>
+**AI-powered voice assistant built with React and the Web Speech API.**
+
+VoicePilot explores browser-based voice interaction using modern web technologies.
+
+**Technology:** React • JavaScript • Web Speech API
+
+<p>
+  <a href="https://github.com/rajkumar-pk/voicepilot">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="VoicePilot Source Code"/>
+  </a>
+  <a href="https://voicepilot-livid.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit-00A6A6?style=for-the-badge&logo=vercel&logoColor=white" alt="VoicePilot Live Demo"/>
+  </a>
+</p>
 
 ---
 
@@ -105,23 +116,23 @@ A full-stack restaurant application built around a modern web experience.
 
 <div align="center">
 
-<a href="https://github.com/rajkumar-pk">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajkumar-pk&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="Raj Kumar's GitHub Stats"/>
-</a>
+### GitHub Activity
 
-<a href="https://github.com/rajkumar-pk">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar-pk&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages"/>
+<a href="https://github.com/rajkumar-pk?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
 </a>
 
 </div>
 
+> GitHub statistics are generated locally in this profile repository using GitHub Actions rather than relying on a public statistics server.
+
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=rajkumar-pk&hide_border=true&theme=transparent" alt="GitHub Streak Stats"/>
+<img src="./profile/streak.svg" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -131,15 +142,13 @@ A full-stack restaurant application built around a modern web experience.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajkumar-pk&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+<img src="./profile/trophies.svg" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
 ## 📚 Currently Learning
-
-<div align="center">
 
 |          Technology          | Focus                |
 | :--------------------------: | :------------------- |
@@ -148,8 +157,6 @@ A full-stack restaurant application built around a modern web experience.
 |         ⚡ **FastAPI**        | Modern Python APIs   |
 |        🎨 **Three.js**       | 3D web experiences   |
 |     🖥️ **WebGL / GLSL**     | Interactive graphics |
-
-</div>
 
 ---
 
@@ -166,7 +173,7 @@ Certified through the **Government of Punjab — ULearn Program** in:
 
 ---
 
-## 🎯 What I'm Looking For
+## 🎯 Open To
 
 I'm open to:
 
