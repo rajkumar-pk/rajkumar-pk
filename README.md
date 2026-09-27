@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/swe_rajkumar/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:[mr.rajkumar.pk@gmail.com](mailto:mr.rajkumar.pk@gmail.com)">
+  <a href="mailto:mr.rajkumar.pk@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -115,22 +115,6 @@ VoicePilot explores browser-based voice interaction using modern web technologie
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-### GitHub Activity
-
-<a href="https://github.com/rajkumar-pk?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
-</a>
-
-</div>
-
-> GitHub statistics are generated locally in this profile repository using GitHub Actions rather than relying on a public statistics server.
-
----
-
 ## 📚 Currently Learning
 
 |          Technology          | Focus                |
@@ -184,7 +168,7 @@ I'm open to:
 <img src="https://img.shields.io/badge/Instagram-@swe__rajkumar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="mailto:[mr.rajkumar.pk@gmail.com](mailto:mr.rajkumar.pk@gmail.com)">
+<a href="mailto:mr.rajkumar.pk@gmail.com">
 <img src="https://img.shields.io/badge/Email-mr.rajkumar.pk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
