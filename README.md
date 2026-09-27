@@ -2,7 +2,7 @@
 
 # Hi, I'm Raj Kumar 👋
 
-### A full-stack developer from Lahore, building with the MERN stack
+### Full-Stack Developer | MERN Stack | BBIT Student
 
 <p>
   <a href="https://github.com/rajkumar-pk">
@@ -25,62 +25,63 @@
 
 ## 👨‍💻 About Me
 
-I'm a **BBIT student at the Institute of Business & Information Technology (IBIT), University of the Punjab**, with a growing focus on **full-stack web development and digital strategy**.
+I'm a **BBIT student at the Institute of Business & Information Technology (IBIT), University of the Punjab**, focused on **full-stack web development and digital technology**.
 
-I work primarily with the **MERN stack** and enjoy building complete applications — from frontend interfaces and REST APIs to databases, authentication, and deployment.
+I primarily work with the **MERN stack**, building modern web applications from frontend interfaces and REST APIs to databases, authentication, and deployment.
 
-I'm currently expanding my development skills with **Python, Django REST Framework, FastAPI, and Three.js**.
+I'm also expanding my backend and creative development skills with **Python, Django REST Framework, FastAPI, and Three.js**.
 
 ### 🚀 What I'm Currently Doing
 
-* 🔭 Currently working on **Food & Friends**
-* 🌱 Currently learning **Python, Django REST Framework, FastAPI & Three.js**
+* 🔭 Building **Food & Friends**, a full-stack restaurant application
+* 🌱 Learning **Python, Django REST Framework, FastAPI & Three.js**
 * 👯 Looking to collaborate on **Full-stack MERN projects**
 * 🤝 Looking for help with **Three.js / WebGL / GLSL**
 * 💬 Ask me about **MERN Stack, React, Node.js, Express & MongoDB**
 * 📫 Reach me at **[mr.rajkumar.pk@gmail.com](mailto:mr.rajkumar.pk@gmail.com)**
+* ⚡ Fun fact: **I speak five languages — English, Urdu, Hindi, Punjabi, and Marwari**
 
 ---
 
-## 💻 Technical Skills
+## 💻 Tech Stack
 
-### Programming Languages
+### Languages
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=javascript,python,cpp" height="48" alt="JavaScript, Python, C++"/>
 </p>
 
-### Frontend Development
+### Frontend
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="48" alt="React, Next.js, Tailwind CSS"/>
 </p>
 
-### Backend Development
+### Backend
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django" height="48" alt="Node.js, Express.js, Django"/>
 </p>
 
 ### Database
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/>
 </p>
 
 ---
 
-## 🧩 Development Experience
+## 🧩 What I Build
 
-My development work includes:
-
-* 🔹 Building **REST APIs** with Express.js and Node.js using clean route structures and middleware
-* 🔹 Designing **MongoDB data models** with Mongoose, including schemas and CRUD operations
-* 🔹 Implementing **authentication** using JWT and password hashing
-* 🔹 Building **React.js / Next.js interfaces** connected to real backend APIs
-* 🔹 Developing responsive interfaces using **Tailwind CSS**
-* 🔹 Working on **full-stack projects** from initial setup through deployment
-* 🔹 Applying **object-oriented programming concepts** with C++
+* REST APIs with **Node.js & Express.js**
+* Full-stack applications using the **MERN stack**
+* Responsive interfaces with **React.js, Next.js & Tailwind CSS**
+* MongoDB databases using **Mongoose**
+* Authentication using **JWT & password hashing**
+* CRUD-based applications and backend services
+* Modern web experiences and interactive interfaces
+* Full-stack projects from **development to deployment**
+* Object-oriented programming with **C++**
 
 ---
 
@@ -88,9 +89,15 @@ My development work includes:
 
 ## 🍽️ Food & Friends
 
-Currently working on a **full-stack restaurant application** built around a modern web experience.
+A **full-stack restaurant application** designed to provide a modern and user-friendly food discovery experience.
 
-**Technology:** MongoDB • Express.js • React.js • Node.js • Tailwind CSS
+**Tech:** MongoDB • Express.js • React.js • Node.js • Tailwind CSS
+
+<p>
+  <a href="https://github.com/rajkumar-pk/Food_and_Friends">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Food & Friends Source Code"/>
+  </a>
+</p>
 
 > 🚧 Currently in development.
 
@@ -98,11 +105,11 @@ Currently working on a **full-stack restaurant application** built around a mode
 
 ## 🎙️ VoicePilot
 
-**AI-powered voice assistant built with React and the Web Speech API.**
+An **AI-powered voice assistant** built with React and the Web Speech API.
 
-VoicePilot explores browser-based voice interaction using modern web technologies.
+VoicePilot explores browser-based voice interaction and speech recognition using modern web technologies.
 
-**Technology:** React • JavaScript • Web Speech API
+**Tech:** React • JavaScript • Web Speech API
 
 <p>
   <a href="https://github.com/rajkumar-pk/voicepilot">
@@ -179,8 +186,6 @@ I'm open to:
 <div align="center">
 
 ### 💡 Build. Learn. Create. Iterate.
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:1D4ED8,100:00A6A6&height=100&section=footer" width="100%"/>
 
