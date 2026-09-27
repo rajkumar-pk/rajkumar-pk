@@ -2,7 +2,7 @@
 
 # Hi, I'm Raj Kumar 👋
 
-### A full-stack developer from Pakistan, building with the MERN stack
+### A full-stack developer from Lahore, building with the MERN stack
 
 <p>
   <a href="https://github.com/rajkumar-pk">
@@ -11,7 +11,10 @@
   <a href="https://linkedin.com/in/raj-kumar-pk">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mr.rajkumar.pk@gmail.com">
+  <a href="https://www.instagram.com/swe_rajkumar/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:[mr.rajkumar.pk@gmail.com](mailto:mr.rajkumar.pk@gmail.com)">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -89,7 +92,7 @@ Currently working on a **full-stack restaurant application** built around a mode
 
 **Technology:** MongoDB • Express.js • React.js • Node.js • Tailwind CSS
 
-> Repository link temporarily hidden while the project is being developed.
+> 🚧 Currently in development.
 
 ---
 
@@ -125,26 +128,6 @@ VoicePilot explores browser-based voice interaction using modern web technologie
 </div>
 
 > GitHub statistics are generated locally in this profile repository using GitHub Actions rather than relying on a public statistics server.
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="./profile/streak.svg" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="./profile/trophies.svg" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
@@ -197,7 +180,11 @@ I'm open to:
 <img src="https://img.shields.io/badge/LinkedIn-raj--kumar--pk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:mr.rajkumar.pk@gmail.com">
+<a href="https://www.instagram.com/swe_rajkumar/">
+<img src="https://img.shields.io/badge/Instagram-@swe__rajkumar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="mailto:[mr.rajkumar.pk@gmail.com](mailto:mr.rajkumar.pk@gmail.com)">
 <img src="https://img.shields.io/badge/Email-mr.rajkumar.pk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
